@@ -3,6 +3,6 @@ scikit-learn
 joblib
 matplotlib
 seaborn
-sklearn
+scikit-learn
 pandas
 numpy
